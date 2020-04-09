@@ -1,6 +1,6 @@
 #include "LightMap.h"
 
-namespace LightMapInfo 
+namespace LightMapInfo
 {
 	bool runUpdate = false;
 	unsigned int lightDecrement = 4; //how fast the light strength decreases
